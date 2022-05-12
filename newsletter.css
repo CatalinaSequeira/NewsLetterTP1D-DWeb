@@ -1,0 +1,137 @@
+<<<<<<< Updated upstream
+=======
+
+.linkheader{
+    height: 60vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+main,footer,header{
+    margin: 20px;
+}
+#texto_principal{
+    text-align: center ;
+    font-size: 20pt;
+    margin: 50px;
+}
+
+#boton_inscripcion{
+    height: 150px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #22003D;
+}
+.inscripcion{
+    border-color:#b701f6;
+    background-color: #b701f6;
+}
+section>button{
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+    height: 60px;
+    width: 60vh;
+}
+
+#descripcion_premios{
+    display: flex;
+    font-size: 20pt;
+    width:100%;
+    background-color: #00d1fa;
+    color: white;    
+}
+.premio{
+    text-align: left;
+    padding: 20px;
+
+}
+
+.premioimg{
+    margin: 10px;
+    width: 50%;
+    height: 350px;
+    text-align: right;
+}
+
+#galeria_fotos{
+    margin: 20px;
+    /* display: flex;
+    justify-content: center;
+    justify-items: center; */
+    
+   
+}
+.galeria1{
+    left: 100px;
+    position:relative;
+    text-align: left;
+    
+}
+.galeria2{
+    right: 100px;
+    position:absolute;
+    text-align: right;
+    
+}
+
+.galeria2,.galeria1{
+    width: 70vh;
+    height: 280px;
+}
+
+.separador{
+    width: 100%;
+   
+}
+
+.inscripcion:hover{
+    background-color: #d577f4;
+}
+
+
+#shop_merch button{
+    width: 40vh;
+    height: 60px;
+    border-color:#fa0f00;
+    background-color: #fa0f00;
+    margin: 50px ;
+    text-align: center;
+    justify-items: center; 
+}
+
+#shop_merch button:hover{
+    background-color: #ca493f;
+}
+
+#shop_merch img{
+    float: right;
+    margin: 30px;  
+    margin-right: 70px;
+    width: 18vh;
+    height: 100px;
+}
+
+
+.imagenfooter{
+    height: 400px;
+    width: 100%;
+}
+
+.logofooter{
+    height: 70px;
+    width: 15vh;
+}
+
+#fb,#tw,#ld,#ig{
+    float: right;
+    padding-top: 10px;
+    margin: 5px;
+    width: 10vh;
+    height: 40px;
+    color: rgb(153, 153, 153);
+}
+>>>>>>> Stashed changes
