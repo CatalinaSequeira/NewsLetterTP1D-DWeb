@@ -1,0 +1,100 @@
+header{
+    height: 400px;
+    width: 100%;
+    background-image: url("imagenes/imagen\ 1.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+#texto_principal{
+    text-align: center ;
+}
+
+#boton_inscripcion{
+    height: 150px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #22003D;
+}
+.inscripcion{
+    border-color:#b701f6;
+    background-color: #b701f6;
+}
+section>button{
+    color: white;
+    font-size: 25pt;
+    border-radius: 10px;
+    height: 60px;
+    width: 400px;
+}
+
+#descripcion_premios{
+    
+    width:100%;
+    background-color: #00d1fa;
+    color: white;    
+}
+.premio{
+    position:absolute;
+    text-align: left;
+}
+
+.premioimg{
+    margin: 10px;
+    width: 600px;
+    height: 400px;
+    left: 600px;
+    position: relative;
+    text-align: right;
+}
+
+#galeria_fotos{
+    margin: 20px;
+}
+.galeria2{
+    left: 100px;
+    position: relative;
+    text-align: right;
+}
+
+.separador{
+    width: 100%;
+   
+}
+#shop_merch>button{
+    border-color:#fa0f00;
+    background-color: #fa0f00;
+    margin: 80px ;
+    text-align: center;
+    justify-items: center;
+    
+}
+#shop_merch >img{
+    float: right;
+    margin: 30px;  
+    width: 100px;
+    height: 100px;
+}
+
+
+.imagenfooter{
+    height: 500px;
+    width: 100%;
+}
+
+.logofooter{
+    height: 60px;
+    width: 60px;
+}
+
+#fb,#tw,#ld,#ig{
+    float: right;
+   
+    margin: 10px;
+    width: 40px;
+    height: 40px;
+    color: rgb(153, 153, 153);
+}
