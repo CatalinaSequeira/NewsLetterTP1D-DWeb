@@ -15,7 +15,7 @@ main,footer,header{
     margin: 50px;
 }
 
-#boton_inscripcion{
+#inscripcion{
     height: 150px;
     width: 100%;
     display: flex;
@@ -23,10 +23,12 @@ main,footer,header{
     align-items: center;
     background-color: #22003D;
 }
-.inscripcion{
+
+#inscripcion button{
     border-color:#b701f6;
     background-color: #b701f6;
 }
+
 section>button{
     color: white;
     font-size: 25pt;
